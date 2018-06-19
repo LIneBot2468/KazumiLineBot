@@ -88,7 +88,7 @@ def sendMessageWithMention(to, mid):
         logError(error)
 def helpmessage():
     helpMessage = """╔══════════════
-╠♥ ✿✿✿ 喵の特製單體半垢 ✿✿✿ ♥
+╠♥ ✿✿✿ 琉璃の特製單體半垢 ✿✿✿ ♥
 ║
 ╠══✪〘 Help Message 〙✪═══
 ║
